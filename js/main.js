@@ -11,7 +11,7 @@
      Tant que ce n'est pas fait, les formulaires basculent sur un envoi
      par courriel (mailto) automatiquement.
   ===================================================================== */
-  var GOOGLE_SCRIPT_URL = "COLLEZ_ICI_VOTRE_URL_GOOGLE_SCRIPT";
+  var GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz7jThvLNuZ3oG1ZYJFyKlKwfm_60jNraiAbgVVG1a0w7_-YTHwfXsfiNwWFeBM39ag/exec";
 
   var STORAGE_KEY = "pml_lang";
   var htmlEl = document.documentElement;
