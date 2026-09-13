@@ -2,7 +2,7 @@
 
 Site vitrine bilingue (FR/EN) pour **Pneus Mobiles Laval**, service mobile de
 changement de pneus et d'entreposage saisonnier à Laval, Montréal, Rive-Nord,
-Terrebonne, Mirabel et Deux-Montagnes.
+Terrebonne, Mirabel et Deux-Montagnes...
 
 Site statique : **aucun serveur ni build requis**. HTML / CSS / JS pur.
 
@@ -44,10 +44,10 @@ pneus-mobiles-laval/
 ## ⚠️ À faire avant la mise en ligne
 
 1. **Formulaire de réservation** — le formulaire pointe vers
-   `https://formspree.io/f/VOTRE_ID_FORMSPREE` dans `index.html` (élément
+   `https://formspree.io/f/mzeblbjk` dans `index.html` (élément
    `#bookingForm`). Créez un compte gratuit sur [formspree.io](https://formspree.io),
    créez un formulaire relié à `contact@pneusmobileslaval.ca`, puis remplacez
-   `VOTRE_ID_FORMSPREE` par l'identifiant fourni. Tant que ce n'est pas fait,
+   `mzeblbjk` par l'identifiant fourni. Tant que ce n'est pas fait,
    le site bascule automatiquement sur un envoi par courriel (`mailto:`).
 2. **Réseaux sociaux** — remplacez les liens `https://facebook.com/` et
    `https://instagram.com/` dans le pied de page par vos vraies pages.
